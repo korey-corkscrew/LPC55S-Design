@@ -25,3 +25,4 @@
 ![JTAG](https://user-images.githubusercontent.com/77598913/141320286-32f2fd3c-29bd-4d45-a54c-35097f0a85bc.jpeg)
 
 ## PCB
+![PCB](https://user-images.githubusercontent.com/77598913/141320639-8f9725e5-223b-4dd4-a06e-43b3358179da.jpeg)
